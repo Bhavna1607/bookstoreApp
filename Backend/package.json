@@ -1,0 +1,30 @@
+{
+  "name": "bookstore",
+  "version": "1.0.0",
+  "description": "mern project",
+  "homepage": "https://github.com/Bhavna1607/bookstoreApp#readme",
+  "bugs": {
+    "url": "https://github.com/Bhavna1607/bookstoreApp/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bhavna1607/bookstoreApp.git"
+  },
+  "license": "ISC",
+  "author": "Bhavna",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "https://github.com/Bhavna1607/bookstoreApp.git",
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.10.1",
+    "mongose": "^0.0.2-security",
+    "nodemon": "^3.1.9"
+  }
+}
